@@ -6,4 +6,13 @@ public class ClientInterface {
 		return this.getClass().getName();
 	}
 	
+	public void uneSuperViolation() {
+		try {
+			
+		} catch (Throwable t) {
+			
+		} finally {
+			return;
+		}
+	}
 }
