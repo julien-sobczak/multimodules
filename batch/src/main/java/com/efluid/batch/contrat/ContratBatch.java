@@ -6,8 +6,4 @@ public class ContratBatch {
 		return this.getClass().getName();
 	}
 	
-	public static void testIncremental() {
-		try {} finally { return; }
-	}
-	
 }
